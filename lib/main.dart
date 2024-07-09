@@ -18,6 +18,7 @@ import 'package:easy_localization/easy_localization.dart';
 // ignore: implementation_imports
 import 'package:easy_localization/src/easy_localization_controller.dart';
 // ignore: implementation_imports
+// ignore: implementation_imports
 import 'package:easy_localization/src/localization.dart';
 
 List<MapEntry<Locale, String>> supportedLocales = const [
