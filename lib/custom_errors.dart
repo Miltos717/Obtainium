@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:obtainium/providers/logs_provider.dart';
 import 'package:provider/provider.dart';
-
+// eweww
 class ObtainiumError {
   late String message;
   bool unexpected;
